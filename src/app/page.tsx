@@ -226,7 +226,7 @@ export default function Home() {
       <h1 className="text-2xl font-bold underline">
         DP Knapsack Live Demonstration
       </h1>
-      <p>Made for SC2001 Group 1 (SCS3)</p>
+      <p>Made by SC2001 Group 1 (SCS3)</p>
       <br />
       <div>
         <table className="">
